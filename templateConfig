@@ -1,0 +1,3 @@
+cversion=C23
+loglevel=compile
+optimization=high
